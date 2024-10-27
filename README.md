@@ -1,1 +1,1 @@
-[View the PDF](yourfile.pdf)
+[View the PDF](linguistic_project_report.pdf)
